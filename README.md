@@ -8,5 +8,6 @@
 # Tampilan Pada Homepage Ketiga ![Gambar Homepage 3](https://user-images.githubusercontent.com/81859768/117514397-ecb69300-afbd-11eb-9f35-c4c90b274476.png)
 # Tampilan Pada Homepage Ke Empat![Gambar Homepage 4](https://user-images.githubusercontent.com/81859768/117514437-06f07100-afbe-11eb-9d3d-0ce685e0e8e7.png)
 # Tampilan Pada Homepage Kelima![Gambar Homepage 5](https://user-images.githubusercontent.com/81859768/117514503-3606e280-afbe-11eb-8893-b109aeadda86.png)
-# Tampilan Pada Homepage Ke Enam![Uploading Gambar Homepage 6.png…]()
+# Tampilan Pada Homepage Ke Enam!![Gambar Homepage 6](https://user-images.githubusercontent.com/81859768/117514550-520a8400-afbe-11eb-89b5-c00a7ab64e1a.png)
+
 
